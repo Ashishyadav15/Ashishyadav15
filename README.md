@@ -1,15 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
-<h3 align="center">A passionate frontend developer and Artificial intelligence developer from India</h3>
+# Hi, I'm Asisya Yadav! 👋
 
-- 🔭 I’m currently working on python **AI based bank loan system**
+## 🚀 AI/ML Developer | Web Developer | Tech Enthusiast
 
-- 🌱 I’m currently learning **Machine Learning, React, JavaScript, AI**
+Welcome to my GitHub! I'm a passionate **AI & Machine Learning Developer** with a deep interest in solving real-world problems through innovative technology. I thrive on building intelligent systems that enhance decision-making and improve user experiences. 
 
-- ⚡ Fun fact **I think i am Coder.**
+### 🏆 About Me:
+- 💡 Experienced in AI/ML model development, web technologies, and automation.
+- 🤖 Passionate about artificial intelligence, deep learning, and data-driven solutions.
+- 🎯 Professional yet friendly—always eager to learn, share, and collaborate!
+- 🗣️ Strong communication skills that make tech discussions engaging and effective.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚧 Ongoing Projects:
+- 🔥 **AI-based Loan Recommendation System** – Developing a smart AI model to assist users in selecting the best loan options based on their profiles.
+- 📱 **Career Guidance App** – Building an AI-powered career advising platform to help individuals make informed career decisions.
+- 💡 Exploring various AI innovations that contribute to business and technology growth.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 💻 Tech Stack:
+```python
+tech_stack = {
+    'Programming': ['Python', 'JavaScript', 'SQL'],
+    'AI & ML': ['TensorFlow', 'PyTorch', 'Scikit-learn', 'OpenCV'],
+    'Web Development': ['HTML', 'CSS', 'JavaScript', 'Flask', 'React'],
+    'Databases': ['MySQL', 'PostgreSQL'],
+    'Version Control & Tools': ['Git', 'GitHub', 'Docker']
+}
+print("Tech stack loaded successfully!")
+```
+
+### 🌍 Connect With Me:
+- 🔗 [LinkedIn](#) 
+- 🐙 [GitHub](#) 
+- 📸 [Instagram](#)
+
+### ✨ Let's Collaborate!
+I am always open to exciting collaborations, knowledge-sharing, and networking with like-minded professionals. If you have a project idea or want to discuss AI innovations, feel free to connect!
+
+🚀 **Building the future, one AI model at a time!**
