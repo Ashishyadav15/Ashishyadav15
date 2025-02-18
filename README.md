@@ -3,7 +3,7 @@
 **AI/ML Engineer | Full-Stack Developer | Technology Innovator**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Yadav-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashish-yadav-6ab31731a)
-[![GitHub Followers](https://img.shields.io/github/followers/ashish-y15?label=Follow%20on%20GitHub&style=social)](https://github.com/ashish-y15)
+[![GitHub Followers](https://img.shields.io/github/followers/ashish-y15?label=Follow%20on%20GitHub&style=social)](https://github.com/Ashishyadav15)
 
 🔭 **Transforming complex problems into intelligent solutions through AI/ML innovation**
 
