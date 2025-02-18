@@ -28,9 +28,8 @@ print("Tech stack loaded successfully!")
 ```
 
 ### 🌍 Connect With Me:
-- 🔗 [LinkedIn](#) 
-- 🐙 [GitHub](#) 
-- 📸 [Instagram](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashish-yadav-6ab31731a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- 📸 [Instagram](https://www.instagram.com/ashish.yadav.15?igsh=djQ3M3Fubnpnb3Ny)
 
 ### ✨ Let's Collaborate!
 I am always open to exciting collaborations, knowledge-sharing, and networking with like-minded professionals. If you have a project idea or want to discuss AI innovations, feel free to connect!
